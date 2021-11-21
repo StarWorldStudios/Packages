@@ -1,9 +1,10 @@
 {
   "search":{
-    "url":"https://starworldstudios.github.io/Packages/search.py"
-    "version":"1.0.0"
-    "author":"StarWorld"
-    "author_url":"https://starworld.itcraft.tk/"
+    "name":"Search",
+    "url":"https://starworldstudios.github.io/Packages/search.py",
+    "version":"1.0.0",
+    "author":"StarWorld",
+    "author_url":"https://starworld.itcraft.tk/",
     "license":"GPL v3.0"
   }
 }

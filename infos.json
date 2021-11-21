@@ -10,7 +10,7 @@
   "starlang":{
     "name":"StarWorldLanguage",
     "url":"https://starworldstudios.github.io/Packages/StarLang.tar",
-    "version":"1.0.0",
+    "version":"1.0.1",
     "author":"StarWorld",
     "author_url":"https://starworld.itcraft.tk/",
     "license":"GPL v3.0"

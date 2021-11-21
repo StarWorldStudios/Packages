@@ -1,7 +1,15 @@
 {
   "search":{
     "name":"Search",
-    "url":"https://starworldstudios.github.io/Packages/swtool.tar",
+    "url":"https://starworldstudios.github.io/Packages/search.tar",
+    "version":"1.0.0",
+    "author":"StarWorld",
+    "author_url":"https://starworld.itcraft.tk/",
+    "license":"GPL v3.0"
+  }
+  "starlang":{
+    "name":"StarWorldLanguage",
+    "url":"https://starworldstudios.github.io/Packages/StarLang.tar",
     "version":"1.0.0",
     "author":"StarWorld",
     "author_url":"https://starworld.itcraft.tk/",
